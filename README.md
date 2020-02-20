@@ -23,14 +23,14 @@ $ pip install flask
 Navegue para a pasta climao
 
 Se estiver no linux faça:
-  $ export FLASK_APP=server.py
-  $ export FLASK_DEBUG=1
-  $ flask run
+- $ export FLASK_APP=server.py
+- $ export FLASK_DEBUG=1
+- $ flask run
 
 Se estiver no windows, abra o CMD utilizando a tecla WINDOWS + R, e digite cmd, dê enter. faça:
-  $ set FLASK_APP=server.py
-  $ set FLASK_DEBUG=1
-  $ flask run
+- $ set FLASK_APP=server.py
+- $ set FLASK_DEBUG=1
+- $ flask run
 
 
 Divirta-se!
